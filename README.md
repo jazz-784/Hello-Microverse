@@ -192,13 +192,13 @@ Example:
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **NazzJazz**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
+- GitHub: [jazz-784@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- LinkedIn: [kate black](https://linkedin.com/in/linkedinhandle)
 
-👤 **Author2**
+👤 **Microverse Mentor**
 
 - GitHub: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
