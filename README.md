@@ -13,11 +13,9 @@ REQUIRED SECTIONS:
   - Live Demo
 - Getting Started
 - Authors
-- Future Features
 - Contributing
 - Show your support
-- Acknowledgements
-- License
+
 
 After you're finished please remove all the comments and instructions!
 -->
@@ -27,7 +25,7 @@ After you're finished please remove all the comments and instructions!
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Hello-Microverse README</b></h3>
 
 </div>
 
@@ -48,20 +46,14 @@ After you're finished please remove all the comments and instructions!
   - [Run tests](#run-tests)
   - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ](#faq)
-- [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 Hello-Microverse <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
-**[your_project__name]** is a...
+> the first project of the block with many thing to learn for beginners.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -94,11 +86,9 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
+>
+- **[config linters]**
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
